@@ -20,7 +20,7 @@ Pressing buttons will change the labels in the corners and the middle. The label
 
 Easy, right?
 
-A basic Xcode project has been started for you, and can be in this repo at `Cards/Cards.xcodeproj`. Notice, however, that the app is nearly empty. To paraphrase a famous _Game of Thrones_ quote, in this lab, "You get nothing, Jon Snow!" You will have to implement this entire app from scratch (aside from the basic view controller and storyboard that has been given to you in the Xcode project). However, unlike Jon Snow, you _do_ know something—a lot, actually—so this lab should be a breeze.
+A basic Xcode project has been started for you, and can be in this repo at `Cards.xcodeproj`. Notice, however, that the app is nearly empty. To paraphrase a famous _Game of Thrones_ quote, in this lab, "You get nothing, Jon Snow!" You will have to implement this entire app from scratch (aside from the basic view controller and storyboard that has been given to you in the Xcode project). However, unlike Jon Snow, you _do_ know something—a lot, actually—so this lab should be a breeze.
 
 ### Instructions
 
